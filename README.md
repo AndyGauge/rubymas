@@ -6,7 +6,9 @@ a hash to the initializer with your connection information:
 ```ruby
 RubyMas.new {
           host: 'localhost',
-          user: 'AG',
-      password: 'password',                
+          user: 'username',
+      password: 'password',
+      mas_user: 'AG',
+      mas_pass: 'password'           
 }
 ```

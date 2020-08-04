@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'rubymas'
-  s.version = '0.1.0'
+  s.version = '0.2.1'
   s.date = '2020-08-03'
   s.summary = 'Adapter for connecting to Mas90'
   s.description = 'Your MAS90 program may vary depending on implmentation'
